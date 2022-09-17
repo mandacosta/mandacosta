@@ -43,6 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandacosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandacosta&layout=compact&langs_count=7&theme=radical&border_radius=20px"/>
 </div>
+    ![Snake animation](https://github.com/mandacosta/mandacosta/blob/output/github-contribution-grid-snake.svg)
   
 ## 
 ### Contac info
@@ -50,4 +51,4 @@
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""> mandacosta94@mail.com
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> linkedin.com/in/amandacosta94
 
-  ![Snake animation](https://github.com/mandacosta/mandacosta/blob/output/github-contribution-grid-snake.svg)
+  
