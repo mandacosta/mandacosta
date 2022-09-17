@@ -50,3 +50,4 @@
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""> mandacosta94@mail.com
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> linkedin.com/in/amandacosta94
 
+  ![Snake animation](https://github.com/mandacosta/mandacosta/blob/output/github-contribution-grid-snake.svg)
