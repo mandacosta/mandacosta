@@ -1,9 +1,9 @@
 ### About me
 
 - 👋 My name is Amanda, thanks for visiting my github profile !
-- ⭐ I'm a chemisty ⚛️ on my way to become a fullstack web developer 🧑‍💻
+- 👩 I'm a chemisty 👩‍🔬 on my way to become a fullstack web developer 🧑‍💻
 - 📚 I’m currently studying at Kenzie Academy Brasil and now learning React; 
-- 📫 You can reach me by e-mail (mandacosta94@mail.com) or LinkedIn(linkedin.com/in/amandacosta94)
+
 
 ##
 ### Languages
@@ -46,6 +46,7 @@
   
 ## 
 ### Contac info
-  
-  <a href="mailto:mandacosta94@mail.com">	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+📫 You can reach me by:
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""> mandacosta94@mail.com
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> linkedin.com/in/amandacosta94
 
