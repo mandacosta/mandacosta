@@ -2,7 +2,8 @@
 
 - 👋 My name is Amanda, thanks for visiting my github profile !
 - 👩 I'm a chemisty 👩‍🔬 on my way to become a fullstack web developer 🧑‍💻
-- 📚 I’m currently studying at Kenzie Academy Brasil and now learning React; 
+- 📚 I’m currently studying at Kenzie Academy Brasil and now learning NodeJS; 
+- 🥳 Frontend Developer ! Checkout my projects <3
 
 
 ##
