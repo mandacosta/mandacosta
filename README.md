@@ -7,7 +7,7 @@
 
 
 ##
-### Languages
+### Languages && Technologies
 <br>
     <div style="width: 100%">
       <div align="center">
@@ -36,6 +36,10 @@
         width="65"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
       />
+        <img 
+             height="50"
+        width="65"
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </div>
     </div>
 <br>
