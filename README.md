@@ -42,15 +42,6 @@
       </div>
     </div>
 <br>
-<div align="center">
-  <a href="https://github.com/mandacosta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mandacosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20px"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandacosta&layout=compact&langs_count=7&theme=radical&border_radius=20px"/>
-  <img style="background-color: transparent;" src="https://github.com/mandacosta/mandacosta/blob/output/github-contribution-grid-snake.svg" alt="">
-  
-</div>
-
- 
     
   
 ## 
