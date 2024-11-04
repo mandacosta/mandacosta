@@ -3,7 +3,7 @@
 - 👋 My name is Amanda, thanks for visiting my github profile !
 - 👩 I'm a fullstack web developer 🧑‍💻 and also a chemisty 👩‍🔬 
 - 📚 I have finished CS50's course.
-- 💚 Working on NodeJS projects 
+- 💚 Working on Java projects 
 
 
 ##
